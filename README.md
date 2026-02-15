@@ -49,3 +49,53 @@ The network has low confidence scores for the two incorrect predictions shown. T
 
 
 **References:** *Karen Simonyan and Andrew Zisserman. Very Deep Convolutional Networks for Large-Scale Image Recognition. 9 2014. https://arxiv.org/abs/1409.1556* 
+
+
+
+
+
+STEP BY STEP GUIDE:
+
+## 🚀 Setup Guide
+
+1. Install Python (3.9+):
+   ```bash
+   python --version
+
+2. git clone https://github.com/your-username/your-repository.git
+cd your-repository
+
+3. Create and activate a virtual environment:
+python -m venv venv
+
+Windows:
+venv\Scripts\activate
+
+Mac/Linux:
+source venv/bin/activate
+
+4. Install dependencies:
+pip install -r requirements.txt
+
+(If no requirements file:)
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow notebook
+
+5. Run the project:
+jupyter notebook
+
+6. (Optional) Verify installation:
+   ```bash
+   python -c "import numpy, pandas, matplotlib, seaborn, sklearn, tensorflow"
+
+7. If you encounter issues, upgrade pip:
+python -m pip install --upgrade pip
+
+8. To deactivate the virtual environment after use:
+deactivate
+
+
+
+
+
+   
+
