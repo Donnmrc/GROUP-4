@@ -3,7 +3,7 @@ from typing import List, Optional
 from pydantic import BaseModel, Field
 
 class WeatherPrediction(BaseModel):
-    class_name: str = Field(..., alias="ClassName")  # Cloudy, Rain, Shine, Sunrise
+    class_name: str = Field(..., alias="className")  # Cloudy, Rain, Shine, Sunrise
     confidence: float
     is_correct: Optional[bool] = Field(None, alias="isCorrect")
 
