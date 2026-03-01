@@ -45,7 +45,7 @@ Example labels and predictions:
   <img src="https://user-images.githubusercontent.com/47857277/117173634-dee9ed80-adc4-11eb-971b-d8cafb9385d6.png" width="900">
 </p>
 
-The network has low confidence scores for the two incorrect predictions shown. This further emphasises the model's ability to predict labels accurately.
+The network has low confidence scores for the two incorrect predictions shown, this further emphasises the model's ability to predict labels accurately.
 
 
 **References:** *Karen Simonyan and Andrew Zisserman. Very Deep Convolutional Networks for Large-Scale Image Recognition. 9 2014. https://arxiv.org/abs/1409.1556* 
