@@ -4,7 +4,7 @@
   "metadata": {
     "accelerator": "GPU",
     "colab": {
-      "name": "WeatherClassifier.ipynb",
+      "Name": "WeatherClassifier.ipynb",
       "provenance": [],
       "collapsed_sections": [],
       "machine_shape": "hm"
